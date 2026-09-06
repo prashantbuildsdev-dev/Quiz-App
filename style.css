@@ -116,3 +116,53 @@ body{
     align-items: center;
 
 }
+
+@media(max-width: 600px){
+    body{
+        min-height: 100vh;
+        height: auto;
+        padding: 90px 0 30px 0;
+    }
+
+    .container{
+        width: 100%;
+        padding: 20px 15px;
+    }
+
+    .container h1{
+        font-size: 25px;
+        margin-bottom: 25px;
+    }
+
+    .container .questionBox{
+        font-size: 20px;
+        line-height: 1.5;
+    }
+
+    .choice{
+        width: 100%;
+        font-size: 16px;
+        padding: 12px;
+    }
+
+    .btn{
+        width: 100%;
+        font-size: 18px;
+    }
+
+    .startBtn{
+        width: 70%;
+    }
+
+    .scoreCard{
+        font-size: 20px;
+    }
+
+    .timer{
+        top: 10px;
+        right: 10px;
+        width: 58px;
+        height: 58px;
+        font-size: 20px;
+    }
+}

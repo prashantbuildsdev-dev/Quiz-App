@@ -79,8 +79,7 @@ This project helped me practice several important JavaScript concepts:
 **Prashant Kumar**
 
 B.Tech CSE Student | C++ & DSA | HTML | CSS | JavaScript
-https://prashantbuildsdev-dev.github.io/Foodie-Website/
-
+ 
 ## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!

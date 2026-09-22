@@ -3,6 +3,8 @@
 An interactive **JavaScript Quiz App** built using **HTML, CSS, and JavaScript**.
 The app allows users to test their JavaScript knowledge through multiple-choice questions with a **30-second timer for each question**, instant feedback, score tracking, and a Play Again option.
 
+LIVE DEMO : https://prashantbuildsdev-dev.github.io/Quiz-App/
+
 ## 🚀 Features
 
 * 🎯 20 JavaScript multiple-choice questions
@@ -77,6 +79,7 @@ This project helped me practice several important JavaScript concepts:
 **Prashant Kumar**
 
 B.Tech CSE Student | C++ & DSA | HTML | CSS | JavaScript
+https://prashantbuildsdev-dev.github.io/Foodie-Website/
 
 ## ⭐ Support
 
